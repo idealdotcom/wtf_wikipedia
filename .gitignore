@@ -3,4 +3,3 @@ node_modules
 coverage
 viz
 npm-debug.log
-package-lock.json
