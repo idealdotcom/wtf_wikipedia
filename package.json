@@ -35,7 +35,7 @@
     "derequire": "^2.0.3",
     "eslint": "^8.8.0",
     "tap-spec": "5.0.0",
-    "tape": "4.6.0",
+    "tape": "5.5.3",
     "uglify-js": "3.15.0",
     "gaze": "^1.1.1",
     "shelljs": "^0.8.5"
